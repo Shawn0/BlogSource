@@ -1,8 +1,1 @@
-[submodule "thespiral/themes/hello-friend-ng"]
 
-[submodule "thespiral/themes/themes/PaperMod"]
-	path = thespiral/themes/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "thespiral/themes/PaperMod"]
-	path = thespiral/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
