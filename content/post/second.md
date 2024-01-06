@@ -1,5 +1,5 @@
 +++
-title = 'Second'
+title = 'Second Post'
 date = 2024-01-04T22:11:42+08:00
 +++
 # 如何进步
