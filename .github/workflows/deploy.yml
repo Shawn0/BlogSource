@@ -28,7 +28,7 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
               with:
-                  PERSONAL_TOKEN: ${{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}}
+                  PERSONAL_TOKEN: ${{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}}
                   EXTERNAL_REPOSITORY: Shawn0/shawn0.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
