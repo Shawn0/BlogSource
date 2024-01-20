@@ -28,5 +28,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.personal_token }}
+          EXTERNAL_REPOSITORY: Shawn0/shawnO.github.io
+          PUBLISH_BRANCH: main
           publish_dir: ./public
           commit_message: ${{ github.event.head_commit.message }}
